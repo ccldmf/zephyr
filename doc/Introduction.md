@@ -23,7 +23,7 @@ zephyr是一个微型内核，主要是用于资源受限的系统，比如简�
 ## 源码结构
 下面是zephyr的文件结构：
 <br/>
-![zephyrFileStructure](https://github.com/ccldmf/zephyr/blob/main/Picture/zephyrFileStructure.png)
+![zephyrFileStructure](https://github.com/ccldmf/zephyr/blob/main/doc/Picture/zephyrFileStructure.png)
 <br/>
 * arch
 	架构相关的内核源文件，私有API以及平台相关代码
